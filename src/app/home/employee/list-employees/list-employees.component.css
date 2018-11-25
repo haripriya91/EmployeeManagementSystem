@@ -1,0 +1,8 @@
+.imgClass {
+    width: 200px;
+    height: 200px;
+  }
+.vertical-align-cls{
+    display:flex;
+    align-items: center;
+} 
