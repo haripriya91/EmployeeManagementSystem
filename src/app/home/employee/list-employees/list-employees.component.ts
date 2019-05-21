@@ -10,24 +10,24 @@ export class ListEmployeesComponent implements OnInit {
   employees: Employee[] = [
     {
       id: 1,
-      name: "Haripriya",
+      name: "test1",
       gender: "Female",
-      email: "geetpriya.k@gmailcom",
-      phoneNumber: 9207060507,
+      email: "test1.k@gmailcom",
+      phoneNumber: 9898779889,
       contactPreference: "Email",
-      dateOfBirth: new Date("09/19/1991"),
+      dateOfBirth: new Date("09/19/1981"),
       department: "EC",
       isActive: true,
       photoPath: "assets/images/hp.png"
     },
     {
       id: 2,
-      name: "Sanu",
+      name: "test2",
       gender: "Male",
-      email: "sanunt@gmail.com",
-      phoneNumber: 9895599273,
+      email: "test2@gmail.com",
+      phoneNumber: 89888988999,
       contactPreference: "Email",
-      dateOfBirth: new Date("07/22/1988"),
+      dateOfBirth: new Date("07/22/1978"),
       department: "IT",
       isActive: true,
       photoPath: "assets/images/sanu.png"
